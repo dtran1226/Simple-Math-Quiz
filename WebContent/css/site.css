@@ -1,0 +1,39 @@
+body {
+	margin: 1em auto;
+	padding: 2em 1em 1em 1em;
+	background-color: azure;
+	height: auto;
+	text-align: center;
+}
+
+ul.THAN {
+	list-style-type: none;
+	width: 10%;
+	margin: auto;
+	text-align: left !important
+}
+
+#operator {
+	width: 20px;
+	text-align: center;
+}
+
+button:hover {
+	background-color: aqua;
+}
+
+button {
+	border-radius: 20px;
+	background-color: beige;
+	cursor: pointer;
+}
+
+.operand {
+	width: 40px;
+	text-align: center;
+}
+
+.input {
+	width: 200px;
+	border-radius: 4px;
+}
